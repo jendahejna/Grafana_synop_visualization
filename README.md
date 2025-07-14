@@ -16,7 +16,7 @@ Simply run the `app.py` file to start the server:
 
 ```bash
 python app.py
-
+```
 Images can then be accessed via the `/Icons/<filename>` endpoint, for example:
 `http://your-server-ip:5000/Icons/0.png`
 `http://your-server-ip:5000/Icons/21.png`
